@@ -1,0 +1,8 @@
+ls
+git add .
+git commit -m "Actividad semana 2"
+git push
+preguntas-semana2.txt
+comandos-terminal.txt
+reflexion-s
+git status
